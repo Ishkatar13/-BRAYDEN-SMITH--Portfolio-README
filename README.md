@@ -1,5 +1,5 @@
 # -BRAYDEN-SMITH--Portfolio-README
-Brayden Smith | Senior Product Designer
+<b>Brayden Smith | Senior Product Designer</b>
 
 Hi there. You've landed on my GitHub, which for a designer, is a bit like finding a fish in a tree.
 
