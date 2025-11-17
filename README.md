@@ -1,5 +1,6 @@
 # -BRAYDEN-SMITH--Portfolio-README
 Brayden Smith | Senior Product Designer
+
 Hi there. You've landed on my GitHub, which for a designer, is a bit like finding a fish in a tree.
 
 While I'm not a production developer, I have a deep technical fluency and extensive experience collaborating with engineering teams on their own turf. I've worked closely with developers on ASP.NET, MVC, and Blazor stacks, and I've used GitHub to manage design handoffs and version control for large-scale enterprise design systems.
